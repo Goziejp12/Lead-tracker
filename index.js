@@ -1,3 +1,4 @@
+/* This a chrome extension for tracking leads */
 let myLeads = []
 const inputEl = document.getElementById("input-el")
 const inputBtn = document.getElementById("input-btn")
